@@ -3,7 +3,7 @@ Various coding challenges and solutions
 
 ## Motivation
 The goals of this project are
-* Get breadth experience with various challenges and the code to solve them
+* Gain breadth experience with various challenges and the code to solve them
 * Improve on current coding skills
 * Learn code optimization and making more efficient solutions
 
